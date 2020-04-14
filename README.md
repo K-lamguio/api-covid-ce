@@ -1,5 +1,5 @@
 # api-covid-ce
-Este repositório trata tá disponibilização da api pública do IntegraSUS sobre dados relacionados ao boletim epidemiológico covid-19 do estado do Ceará.
+Este repositório trata da disponibilização da api pública do IntegraSUS sobre dados relacionados ao boletim epidemiológico covid-19 do estado do Ceará.
 
 #### API Aberta CasosCoronavirus
 ###### GET  https://indicadores.integrasus.saude.ce.gov.br/api/casos-coronavirus?dataInicio=2019-01-01&dataFim=2019-04-01
